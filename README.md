@@ -1,6 +1,6 @@
-# myproj
+# Flutter app 
 
-A new Flutter project.
+App to upload video and display the generated subtittled video.
 
 ## Getting Started
 
